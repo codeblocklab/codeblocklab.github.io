@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Welcome
+# Skills and Portfolio
 
-This is my homepage.
+Justr the beginning
