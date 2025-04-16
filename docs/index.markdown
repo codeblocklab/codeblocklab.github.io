@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Technical Skills
-
 ## Cloud Platforms & Administration
 - AWS
 - GCP
@@ -78,7 +76,3 @@ layout: home
 - Monitoring & alerting
 - Infrastructure automation
 - Resource provisioning & cleanup workflows
-
-
-
-
