@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
 # Skills and Portfolio
 
-Justr the beginning
+Just the beginning
