@@ -15,9 +15,7 @@ This page is dedicated to present our technical skills, describe usecases and ou
   <p>{{ sk.content | markdownify }}</p>
 {% endfor %}
 
-
 ### Usecases
-
 
 ### Projects
 
@@ -29,3 +27,4 @@ This page is dedicated to present our technical skills, describe usecases and ou
   </h2>
   <p>{{ sk.content | markdownify | truncate: 100 }}</p>
 {% endfor %}
+scokolwiek jeszcze cokolwiek 
