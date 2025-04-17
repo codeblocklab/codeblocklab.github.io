@@ -1,8 +1,14 @@
 ---
 layout: page
 title: Skills
-permalink: /skills/
+permalink: /tech
 ---
+
+
+{% for sk in site.skills %}
+  <h2>{{ sk.name }}</h2>
+  <p>{{ sk.content | markdownify }}</p>
+{% endfor %}
 
 
 ## Cloud Platforms & Administration

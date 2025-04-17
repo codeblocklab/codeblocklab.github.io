@@ -36,8 +36,8 @@ url: https://codeblocklab.github.io
 # Build settings
 theme: minima
 
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -58,3 +58,7 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  skills:
+    output: true
