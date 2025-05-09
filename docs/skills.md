@@ -1,21 +1,15 @@
 ---
 layout: page
 title: Skills
-permalink: /tech
+permalink: /skills
 ---
 
+### Cloud Platforms & Administration
 
-{% for sk in site.skills %}
-  <h2>{{ sk.name }}</h2>
-  <p>{{ sk.content | markdownify }}</p>
-{% endfor %}
-
-
-## Cloud Platforms & Administration
-- AWS
-- GCP
+- [Amazon Web Service (AWS)](/aws/cloud/2025/05/05/AWS.html)
+- [Google Cloud Platform (GCP)](gcp/cloud/2025/05/05/GCP.html)
 - Azure
-- Proxmox
+- [Proxmox](gcp/cloud/2025/05/05/Proxmox.html)
 - OpenStack
 
 ## Infrastructure as Code & Orchestration
