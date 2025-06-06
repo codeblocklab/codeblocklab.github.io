@@ -6,7 +6,6 @@ tags: aws cloud iam sso
 project: 1
 ---
 
-AWS IAM Identity Center implementation
 
 <!--more-->
-Okta, etc
+AWS IAM Identity Center implementation
