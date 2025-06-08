@@ -40,5 +40,4 @@ We deliver GitOps-based deployment automation using ArgoCD for Kubernetes enviro
 - GitHub / GitLab  
 - Helm, Kustomize, ApplicationSets  
 - Vault  
-- OPA Gatekeeper, Kyverno  
 - GitHub Actions, GitLab CI/CD
