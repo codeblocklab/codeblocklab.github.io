@@ -13,7 +13,7 @@ permalink: /skills
 - OpenStack
 
 ## Infrastructure as Code & Orchestration
-- Terraform
+- [Terraform](aws/cloud/2025/05/05/Terraform.html)
 - Terragrunt
 - Ansible
 - SaltStack
