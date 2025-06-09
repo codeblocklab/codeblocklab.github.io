@@ -6,6 +6,8 @@ tags: aws
 project: 1
 ---
 
+Automated EKS provisioning with Terraform, IRSA, OIDC, and CloudWatch for secure, observable Kubernetes on AWS.
+
 <!--more-->
  
 We provide a fully automated provisioning setup for Amazon EKS clusters using Infrastructure as Code (Terraform), with secure integration of IAM Roles for Service Accounts (IRSA), OIDC authentication, and native CloudWatch logging for observability. This solution enables production-ready, secure, and observable Kubernetes environments in AWS.

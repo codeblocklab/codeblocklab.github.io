@@ -6,6 +6,8 @@ tags: aws
 project: 1
 ---
 
+Isolated dev, staging and prod environments on AWS with Terraform/Terragrunt for safe, GitOps-ready deployments
+
 <!--more-->
  
 We implement isolated and independently managed **staging** and **production** environments on AWS using Terraform and Terragrunt. This setup enables teams to test infrastructure and application changes in a safe, production-like environment before promotion, following GitOps and DevSecOps best practices.

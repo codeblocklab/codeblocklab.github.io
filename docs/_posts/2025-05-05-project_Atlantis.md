@@ -6,6 +6,8 @@ tags: aws, gcp
 project: 1
 ---
 
+GitOps-style Terraform automation with Atlantis for safe, auditable IaC changes via pull requests.
+
 <!--more-->
  
 We implement Atlantis to automate Terraform workflows directly from Git repositories. This enables GitOps-style infrastructure changes, where each pull request triggers a plan, and only approved changes are applied, ensuring auditability, collaboration, and safe delivery of infrastructure as code.

@@ -6,6 +6,8 @@ tags: aws, gcp
 project: 1
 ---
 
+Multi-cloud IaC provisioning on AWS and GCP with Terraform/Terragrunt for Kubernetes, databases, and networking.
+
 <!--more-->
  
 We offer infrastructure provisioning across both AWS and GCP using Infrastructure as Code (IaC) with Terraform and Terragrunt. This solution enables fast, secure, and consistent deployment of foundational cloud environments including Kubernetes clusters, managed databases, VPC peering, and NAT configurations in a multi-cloud setup.

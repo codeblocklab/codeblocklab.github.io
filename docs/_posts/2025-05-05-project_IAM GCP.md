@@ -6,6 +6,9 @@ tags: gcp
 project: 1
 ---
 
+
+GCP IAM provisioning based on Google Workspace groups for centralized, scalable access control.
+
 <!--more-->
  
 We implement identity and access management (IAM) provisioning in Google Cloud Platform (GCP) using **Google Workspace groups** as the foundation for access control. This allows organizations to manage permissions centrally via groups, ensuring scalable, auditable, and compliant access across GCP projects and services.

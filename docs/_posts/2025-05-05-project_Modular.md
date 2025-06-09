@@ -6,6 +6,8 @@ tags: aws
 project: 1
 ---
 
+Modular IaC setup for provisioning AWS services (RDS, S3, Lambda, API Gateway) with Terraform
+
 <!--more-->
  
 We deliver a modular and reusable Infrastructure as Code (IaC) setup for provisioning AWS services including RDS, S3, Lambda, and API Gateway. Designed for flexibility and scalability, our solution allows teams to deploy backend services in a controlled, consistent, and automated manner using Terraform modules.

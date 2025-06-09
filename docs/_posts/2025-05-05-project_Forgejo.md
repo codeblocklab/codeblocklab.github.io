@@ -6,6 +6,8 @@ tags: git
 project: 1
 ---
 
+Kubernetes-native CI/CD with Argo Workflows and Forgejo for scalable, declarative automation
+
 <!--more-->
 
 We implement CI/CD pipelines based on Argo Workflows integrated with Forgejo, an open-source Git service. This solution provides scalable, container-native automation that replaces traditional CI tools with Kubernetes-native workflows managed declaratively.

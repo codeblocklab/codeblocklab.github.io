@@ -6,6 +6,9 @@ tags: aws, gcp
 project: 1
 ---
 
+
+Declarative app deployment with Kustomize using environment-specific overlays instead of templating
+
 <!--more-->
  
 We implement application deployment pipelines using Kustomize as a lightweight and declarative alternative to tools like Helm. Kustomize allows environment-specific configuration using overlays, enabling clear separation of base resources and environment-level customizations (e.g., dev, staging, prod) without template logic.

@@ -6,6 +6,8 @@ tags: gcp
 project: 1
 ---
 
+GCP serverless provisioning with Cloud Run, Cloud Armor, Secret Manager, and Terraform automation.
+
 <!--more-->
  
 We provide infrastructure provisioning and deployment automation in GCP for serverless workloads using Cloud Run. Our solution includes secure traffic protection with Cloud Armor, centralized secret management with Secret Manager, and Infrastructure as Code using Terraform for repeatable, compliant environments.

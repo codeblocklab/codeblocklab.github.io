@@ -6,6 +6,8 @@ tags: gcp
 project: 1
 ---
 
+Automated CI/CD on GCP using Cloud Build, Artifact Registry, and GKE for containerized apps.
+
 <!--more-->
  
 We implement a fully automated CI/CD pipeline on Google Cloud for containerized applications. The solution leverages **Cloud Build** for building and testing images, **Artifact Registry** for secure image storage, and **GKE** (Google Kubernetes Engine) for running applications at scale.

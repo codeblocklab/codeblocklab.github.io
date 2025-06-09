@@ -6,8 +6,10 @@ tags: secrets, aws, gcp
 project: 1
 ---
 
+Secure secrets management in CI/CD and Kubernetes using AWS/GCP Secret Manager
+
 <!--more-->
- 
+
 We provide secure and centralized secrets management for CI/CD workflows and Kubernetes-based automation. Our solution integrates secrets from cloud-native secret managers like AWS Secrets Manager and Google Secret Manager directly into pipelines, ensuring sensitive data is handled safely, auditable, and in compliance with best practices.
 
 ## Scope of the Solution

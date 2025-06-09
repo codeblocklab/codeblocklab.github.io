@@ -6,6 +6,8 @@ tags: aws
 project: 1
 ---
 
+Static website hosting on AWS with S3, CloudFront, and ACM for secure, global HTTPS delivery
+
 <!--more-->
  
 We provide a secure, scalable, and cost-effective static website hosting solution entirely on AWS. The architecture uses **Amazon S3** for storing and serving frontend assets, **CloudFront** for global content delivery, and **AWS Certificate Manager (ACM)** for managing HTTPS certificates.

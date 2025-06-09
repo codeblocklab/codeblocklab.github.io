@@ -6,6 +6,8 @@ tags: aws
 project: 1
 ---
 
+Secure, serverless app deployment on AWS with WAF, ALB, ECS Fargate, and Secrets Manager.
+
 <!--more-->
  
 We deliver a secure and scalable containerized application deployment architecture using **AWS WAF**, **Application Load Balancer (ALB)**, **ECS Fargate**, and **Secrets Manager**. This solution provides a fully managed, serverless infrastructure for running container workloads behind a protected and observable public interface.

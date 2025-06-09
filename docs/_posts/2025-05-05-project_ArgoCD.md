@@ -6,6 +6,8 @@ tags: git,argocd,eks,gke
 project: 1
 ---
 
+GitOps deployment with ArgoCD for EKS and GKE, enabling secure, declarative app delivery from Git.
+
 <!--more-->
 
 We deliver GitOps-based deployment automation using ArgoCD for Kubernetes environments running on AWS EKS and Google Cloud GKE. Our solution ensures declarative, auditable, and secure application delivery pipelines directly driven from Git repositories.

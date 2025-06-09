@@ -6,6 +6,8 @@ tags: aws, gcp
 project: 1
 ---
 
+SonarQube in Kubernetes as a shared CI/CD code quality service integrated with Argo for automated analysis
+
 <!--more-->
  
 We deploy and manage SonarQube as a microservice within Kubernetes, exposing it as a shared code quality analysis engine for CI/CD pipelines. Integrated with Argo Workflows or ArgoCD, this setup allows automated static code analysis as part of every build, ensuring code health, security, and compliance.
