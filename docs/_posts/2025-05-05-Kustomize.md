@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Kustomize
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Enables template-free, declarative configuration management for Kubernetes by layering and customizing YAML manifests without duplication or Helm-style templating.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Kustomize allows teams to manage Kubernetes resource definitions in a scalable and maintainable way by separating base configurations from environment-specific overlays. It supports patching, variable substitution, resource composition, and configuration reuse through a native, Kubernetes-integrated toolchain.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes structuring configuration hierarchies with kustomization.yaml, applying strategic merge and JSON6902 patches, and managing resource customization for multiple environments (e.g., dev, staging, prod). Supports secret and config generation, common labels/annotations, and transformer plugins.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Often used in GitOps workflows alongside Argo CD or Flux, Kustomize simplifies environment promotion and drift detection without introducing a templating language or additional abstraction layers. It integrates cleanly with CI/CD pipelines, allowing declarative deployments through Git-managed manifests.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Kustomize is also leveraged in multi-tenant or multi-cluster deployments, where consistent configuration patterns and isolation are critical. It supports extension via plugins and hooks for integrating with policy engines or custom validation tools.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By enabling flexible, template-free configuration management, Kustomize reduces complexity, enforces consistency, and enhances maintainability in Kubernetes application and infrastructure delivery.

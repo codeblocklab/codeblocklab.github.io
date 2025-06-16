@@ -1,19 +1,21 @@
 ---
 layout: post
-title: AWS
+title: Prometheus
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Enables scalable, multidimensional monitoring and alerting for modern infrastructure by collecting time-series metrics through a pull-based model and powerful query language (PromQL).
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Prometheus scrapes metrics from configured targets at specified intervals, stores them locally, and provides real-time querying and alerting capabilities. It is designed for reliability and simplicity, making it a core component of cloud-native observability stacks—especially when paired with Grafana, Alertmanager, and exporters.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes configuring Prometheus servers, writing custom PromQL queries, defining alerting rules, and managing scrape targets and service discovery using static configs or dynamic sources (e.g., Kubernetes, Consul, EC2). Also involves tuning retention, federation, and remote write/read for long-term storage and multi-cluster visibility.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Covers integration with exporters for system-level metrics (Node Exporter, Blackbox Exporter), application-level instrumentation via client libraries (Go, Python, Java), and custom metric exposure in microservices and batch jobs.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Alerting is managed through Alertmanager, supporting silencing, deduplication, grouping, and routing alerts to tools like Slack, PagerDuty, Microsoft Teams, or Opsgenie.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+Prometheus is widely adopted in Kubernetes environments for cluster monitoring, pod-level metrics, SLO enforcement, and autoscaling decisions via custom or HPA-integrated metrics.
+
+By enabling high-resolution, low-overhead telemetry and flexible querying, Prometheus empowers teams to detect issues early, optimize performance, and maintain visibility across distributed systems.

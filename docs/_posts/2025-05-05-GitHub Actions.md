@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: GitHub Actions
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Provides native CI/CD automation within the GitHub ecosystem, allowing teams to define, trigger, and manage workflows directly from their repositories using declarative YAML-based pipelines.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+GitHub Actions enables automation of software delivery tasks such as building, testing, releasing, and deploying applications across cloud, container, and on-prem environments. It supports event-driven workflows triggered by commits, pull requests, tags, schedule, or external webhooks.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes authoring reusable workflows and actions, managing secrets, creating matrix builds, caching dependencies, and controlling execution across self-hosted or GitHub-hosted runners. Supports parallelism, conditional logic, and fine-grained permissions via GitHub’s OIDC, environments, and job-level security contexts.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Integrates seamlessly with Docker, Kubernetes, Terraform, and cloud providers (AWS, Azure, GCP) for full-stack automation. Supports multi-stage pipelines, environment promotion, artifact publishing, and GitOps-style deployment strategies.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Used for static code analysis, vulnerability scanning, compliance checks, test automation, and infrastructure provisioning—all tightly coupled with GitHub’s code review and PR process. Logs, annotations, and step-level visibility make debugging and traceability straightforward.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By embedding CI/CD directly into the development lifecycle, GitHub Actions streamlines delivery pipelines, improves developer velocity, and reduces operational overhead through automation-as-code.

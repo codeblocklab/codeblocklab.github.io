@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Security auditing & compliance reporting
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Evaluates systems, processes, and controls to identify security gaps, verify compliance, and ensure the integrity, confidentiality, and availability of digital assets across infrastructure and applications.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Security auditing involves systematic review of configurations, access controls, logging, network activity, and policy enforcement across cloud, on-prem, and hybrid environments. It supports both internal risk management and external compliance obligations (e.g., ISO 27001, PCI-DSS, SOC 2, HIPAA).
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes performing technical audits of systems (e.g., Linux, Windows, cloud services), reviewing IAM configurations, detecting misconfigurations, analyzing logs for anomalies, and validating security controls against established baselines or benchmarks (e.g., CIS, NIST).
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Also covers use of automated tools such as OpenSCAP, Lynis, Nessus, ScoutSuite, or custom scripts to assess infrastructure posture. Findings are typically mapped to control frameworks and translated into risk reports, remediation plans, or compliance documentation.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Auditing workflows often integrate with SIEM platforms, vulnerability management systems, and asset inventories to provide continuous assessment and real-time visibility. Documentation includes audit trails, control testing evidence, and remediation tracking.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By enforcing accountability and validating security hygiene, security auditing reduces risk exposure, ensures regulatory alignment, and strengthens an organization’s ability to detect, prevent, and respond to threats.

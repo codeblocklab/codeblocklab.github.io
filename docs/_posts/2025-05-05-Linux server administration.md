@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Linux server administration
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Manages the deployment, configuration, security, and maintenance of Linux-based systems to ensure stable, secure, and high-performing infrastructure for applications and services.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Linux server administration covers a wide range of operational responsibilities, including package management, system initialization, kernel tuning, and file system configuration across distributions like Ubuntu, Debian, CentOS, RHEL, and AlmaLinux.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes user and permission management, process monitoring, log analysis, and service supervision using tools like systemd, journalctl, top, htop, and ps. Network configuration and diagnostics involve managing interfaces, firewalls (e.g., iptables, nftables, firewalld), DNS resolution, and troubleshooting connectivity issues with tools like netstat, ss, tcpdump, and traceroute.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Covers automation of routine tasks using shell scripting (e.g., Bash), cron jobs, and infrastructure tools such as Ansible or SSH orchestration. Also includes managing storage volumes, RAID, LVM, and ensuring backup and disaster recovery processes are in place.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Security practices involve patch management, SSH hardening, SELinux/AppArmor configuration, audit logging, fail2ban, and integration with centralized identity systems or directory services (e.g., LDAP, Kerberos).
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By maintaining reliable, well-secured Linux environments, this skillset supports scalable application hosting, performance tuning, and incident resolution in both on-premises and cloud-native infrastructure.

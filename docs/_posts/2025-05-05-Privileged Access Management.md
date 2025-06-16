@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Privileged Access Management (PAM)
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Secures, monitors, and controls access to critical systems and resources by enforcing strict governance over privileged accounts, credentials, and administrative actions across IT environments.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+PAM solutions protect against insider threats, credential abuse, and lateral movement by limiting the scope, duration, and visibility of privileged access. This includes session recording, credential vaulting, Just-In-Time (JIT) elevation, and approval workflows for high-risk operations.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes implementing PAM platforms (e.g., CyberArk, BeyondTrust, Delinea, HashiCorp Vault), onboarding accounts and systems, defining access policies, and integrating with identity providers (e.g., LDAP, Azure AD, Okta) for federated authentication. Also includes establishing time-bound access, break-glass procedures, and behavioral monitoring.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Supports compliance with regulatory frameworks like ISO 27001, NIST, PCI-DSS, and SOC 2 through access audit logs, session forensics, and enforcement of least-privilege principles. PAM systems often integrate with SIEMs, ITSM tools, and DevOps pipelines to ensure consistent enforcement across operational workflows.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Covers both human and non-human identities, including securing service accounts, SSH keys, API tokens, and secrets used by applications and automation tools. PAM also enables segmentation of high-risk environments such as domain controllers, production databases, and critical infrastructure.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By controlling and auditing privileged access, PAM strengthens organizational security posture, limits breach impact, and supports accountability and compliance across the entire IT landscape.

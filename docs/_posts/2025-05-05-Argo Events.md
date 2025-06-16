@@ -1,19 +1,17 @@
 ---
 layout: post
-title: AWS
+title: Argo Events
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Provides event-driven automation for Kubernetes by enabling the definition and handling of complex event-based workflows. Integrates external and internal event sources with Kubernetes-native workloads to trigger pipelines, jobs, or infrastructure operations in real time.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+With Argo Events, teams can create declarative, version-controlled event-driven architectures using Kubernetes CRDs. It connects various sources—such as webhooks, Kafka, SQS, cron schedules, GitHub events, or custom HTTP triggers—to downstream actions like Argo Workflows, Argo CD, or Kubernetes jobs.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset enables decoupling automation logic from application code, promoting modularity and observability across CI/CD systems and operational processes. EventSources, Sensors, and Triggers are composed to define reliable, auditable execution paths in response to infrastructure or application changes.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Argo Events supports scalable and fault-tolerant delivery of events with built-in retries, event logging, and dead letter queues. It integrates seamlessly with Kubernetes-native tools and GitOps practices, allowing event-driven automation to be fully managed, audited, and versioned within source control.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
-
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+Used in real-time deployment workflows, autoscaling strategies, infrastructure reconciliation, and system monitoring, Argo Events provides the foundation for reactive, intelligent automation across modern cloud-native platforms.

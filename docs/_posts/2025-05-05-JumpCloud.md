@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: JumpCloud
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Unifies identity, device, and access management into a single cloud directory platform—enabling secure, centralized control over user authentication, authorization, and endpoint policy enforcement across heterogeneous environments.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+JumpCloud serves as a cloud-native alternative to traditional Active Directory, supporting cross-platform user and system management for Windows, macOS, and Linux. It integrates identity and access control with device management, directory services, RADIUS, LDAP, SSO (SAML), and cloud application provisioning.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes configuring directory structures, managing user lifecycles, enforcing conditional access policies, and integrating with identity providers, HR systems, and SaaS platforms. Supports multi-factor authentication (MFA), Just-In-Time access, and Zero Trust security models across cloud and on-prem infrastructure.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Endpoint management includes deploying and enforcing OS policies, scripting tasks, monitoring system health, and ensuring compliance through automated MDM-like controls—all managed through a centralized web interface or API.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+JumpCloud also supports SCIM provisioning, identity federation, and detailed logging for auditing and compliance purposes. It enables consistent policy enforcement, credential rotation, and secure remote access for distributed teams and hybrid workforces.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By consolidating identity and device management, JumpCloud streamlines IT operations, strengthens security posture, and enables scalable, policy-driven access control across the modern enterprise.

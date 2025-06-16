@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Resource Provisioning & Cleanup Workflows
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Automate the lifecycle management of infrastructure and platform resources—ensuring efficient allocation, timely deprovisioning, and cost control across dynamic, cloud-native environments.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Provisioning workflows handle the creation of compute, storage, networking, and platform resources across cloud (e.g., AWS, Azure, GCP), Kubernetes, and on-prem environments. Cleanup workflows ensure unused or expired resources are properly decommissioned to prevent waste, reduce attack surface, and maintain compliance.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes designing infrastructure-as-code (IaC) pipelines with tools like Terraform, Pulumi, or CloudFormation, orchestrating workflows with CI/CD systems or tools like Argo Workflows, GitHub Actions, or Jenkins. Covers tagging strategies, environment scoping (e.g., dev, staging, prod), and approval gates for controlled provisioning.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Cleanup logic may include TTL (time-to-live) automation, orphaned resource detection, scheduled teardown jobs, or event-based triggers via serverless functions or tools like Cloud Custodian and AWS Lambda. Integration with cost monitoring and usage analytics helps target inefficiencies and enforce policy.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Supports governance through identity-aware provisioning, RBAC, audit logging, and integration with ticketing or approval workflows (e.g., ServiceNow, Jira). Resource lifecycle automation improves developer velocity while ensuring that environments remain secure, consistent, and cost-effective.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By automating both provisioning and cleanup, teams reduce manual overhead, improve infrastructure hygiene, and enable self-service environments with guardrails in place.

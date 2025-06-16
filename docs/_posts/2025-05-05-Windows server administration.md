@@ -1,19 +1,19 @@
 ---
 layout: post
-title: AWS
+title: Windows Server Administration
 categories: aws cloud
 tags: aws cloud
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Manages the deployment, configuration, security, and maintenance of Windows-based infrastructure to support enterprise applications, identity services, and critical IT operations.
 
 <!--more-->
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Windows Server administration covers services such as Active Directory, DNS, DHCP, Group Policy, File Services, and Remote Desktop Services across physical, virtual, and cloud-hosted environments. It plays a foundational role in authentication, access control, and networked resource management.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes provisioning and maintaining domain controllers, configuring GPOs for security and policy enforcement, managing user and computer objects in AD, and automating tasks with PowerShell. Also involves patch management, monitoring system health, and troubleshooting OS-level or network-related issues.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Covers storage configuration (e.g., NTFS, ReFS, Storage Spaces), role-based access, Windows Firewall policies, certificate services, and backup/restore strategies using native tools like Windows Admin Center, Server Manager, and WSUS.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Integrates with virtualization platforms (e.g., Hyper-V), cloud services (e.g., Azure AD, hybrid join), and monitoring solutions (e.g., SCOM, Event Viewer, PerfMon) to support high availability, disaster recovery, and compliance.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+By maintaining secure, reliable Windows Server environments, this skillset ensures operational continuity, centralized identity governance, and seamless integration with enterprise applications and services.
