@@ -14,15 +14,15 @@ permalink: /skills
 
 ## Infrastructure as Code & Orchestration
 - [Terraform](aws/cloud/2025/05/05/Terraform.html)
-- Terragrunt
-- Ansible
-- SaltStack
-- Puppet
-- Docker
-- containerd
-- Kubernetes (GKE, OpenShift)
-- Kustomize
-- ArgoCD
+- [Terragrunt](aws/cloud/2025/05/05/Zabbix.html)
+- [Ansible](aws/cloud/2025/05/05/Ansible.html)
+- [SaltStack](aws/cloud/2025/05/05/SaltStack.html)
+- [Puppet](aws/cloud/2025/05/05/Puppet.html)
+- [Docker](aws/cloud/2025/05/05/Docker.html)
+- [containerd](aws/cloud/2025/05/05/Containerd.html)
+- [Kubernetes (GKE, OpenShift)](aws/cloud/2025/05/05/Kubernetes.html)
+- [Kustomize](aws/cloud/2025/05/05/Kustomize.html)
+- [ArgoCD](aws/cloud/2025/05/05/ArgoCD.html)
 
 ## CI/CD & GitOps
 - GitHub Actions
