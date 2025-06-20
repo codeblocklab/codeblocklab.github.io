@@ -2,7 +2,7 @@
 layout: post
 title: Monitoring with AWS CloudWatch and Prometheus/Grafana
 categories: self-hosted
-tags: monitoring, aws
+tags: monitoring aws
 project: 1
 ---
 
