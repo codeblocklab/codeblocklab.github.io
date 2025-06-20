@@ -2,7 +2,7 @@
 layout: post
 title: Atlantis as Automation for Terraform in Git Repositories
 categories: cloud
-tags: aws, gcp
+tags: aws gcp
 project: 1
 ---
 
