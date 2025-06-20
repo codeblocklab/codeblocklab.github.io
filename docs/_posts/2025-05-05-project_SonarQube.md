@@ -2,7 +2,7 @@
 layout: post
 title: SonarQube in Kubernetes as a Microservice for Pipelines
 categories: cloud
-tags: aws, gcp
+tags: aws gcp
 project: 1
 ---
 
