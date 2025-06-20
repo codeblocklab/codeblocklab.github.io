@@ -2,7 +2,7 @@
 layout: post
 title: Secrets Management in Workflows (AWS Secrets Manager / GCP Secret Manager)
 categories: cloud
-tags: secrets, aws, gcp
+tags: secrets aws gcp
 project: 1
 ---
 
