@@ -2,7 +2,7 @@
 layout: post
 title: Multi-Cloud Environment Provisioning with Terraform: GCP & AWS
 categories: cloud
-tags: aws, gcp
+tags: aws gcp
 project: 1
 ---
 
