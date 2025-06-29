@@ -1,19 +1,12 @@
 ---
 layout: post
 title: CIS Benchmarks
-categories: aws cloud
-tags: aws cloud
+categories: security
+tags: security
 ---
 
-Defines security hardening standards for operating systems, cloud platforms, containers, and applications—used to align infrastructure configurations with industry-recognized best practices and compliance requirements.
+AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
 
 <!--more-->
-CIS Benchmarks provide prescriptive, measurable guidelines that improve system security posture by enforcing minimum configurations across key areas such as user access, logging, networking, and service behavior. These benchmarks are applied across Linux distributions, Windows, Kubernetes, Docker, AWS, Azure, GCP, and more.
 
-This skillset includes assessing environments against CIS controls using automated tools (e.g., Lynis, OpenSCAP, CIS-CAT, Inspec) and implementing remediation through configuration management platforms like Ansible, Terraform, or custom scripts. Controls are prioritized based on risk and impact, allowing phased or environment-specific adoption.
-
-Integrates with security and compliance pipelines to perform continuous posture assessments and generate audit-ready reports. Benchmarking is often combined with vulnerability scanning, IAM reviews, and cloud security tooling (e.g., AWS Config, Azure Policy) to enforce organization-wide standards.
-
-Includes documentation and policy mapping for standards such as ISO 27001, NIST, and SOC 2, making CIS Benchmarks a foundational element in regulated environments. In hybrid and multi-cloud setups, these benchmarks support consistent hardening across diverse infrastructure footprints.
-
-By operationalizing CIS Benchmarks, organizations reduce attack surface, meet compliance goals faster, and establish a proactive, measurable approach to security governance.
+Proficient in applying CIS Benchmarks to harden systems, containers, and cloud configurations across Linux, Windows, Kubernetes, and AWS. Experienced in running automated compliance scans, interpreting results, and remediating non-compliant settings. I’ve built hardening baselines with tools like Ansible and Terraform, with configurations tracked in Git. Also familiar with integrating CIS checks into CI/CD pipelines for continuous security enforcement.

@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Security Hardening Practices
-categories: aws cloud
-tags: aws cloud
+title: Security hardening practices
+categories: security
+tags: security
 ---
 
-Implements technical controls and configuration standards that reduce attack surface, enforce least privilege, and strengthen the baseline security posture of systems, applications, and networks.
+AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
 
 <!--more-->
-Security hardening applies to operating systems, containers, cloud services, CI/CD pipelines, and infrastructure components—ensuring systems are resilient against common exploits, misconfigurations, and unauthorized access.
 
-This skillset includes applying hardening benchmarks (e.g., CIS, STIG), disabling unused services and ports, enforcing strong authentication and encryption protocols, and securing default configurations across Linux, Windows, Kubernetes, and cloud platforms.
-
-Covers filesystem permissions, patch management, kernel parameter tuning (e.g., sysctl), SSH hardening, secure boot configurations, and service isolation via container security or sandboxing techniques. Often involves integrating tools like Ansible, Chef, or custom scripts for consistent, automated enforcement.
-
-In cloud environments, security hardening practices extend to IAM roles, network security groups, storage encryption, logging, and workload identity isolation. Includes policy enforcement using tools like AWS Config, Azure Policy, or OPA.
-
-Hardening is validated through vulnerability scans, compliance checks, penetration tests, and continuous monitoring with SIEM or CSPM tools to detect drift or regressions.
-
-By applying rigorous security hardening, organizations proactively defend against threats, reduce configuration-related risks, and create a secure foundation for compliant, production-grade systems.
+Skilled in applying security hardening practices across Linux, Windows, cloud, and containerized environments. Implemented CIS benchmarks, secure SSH configurations, firewall policies, and OS-level controls to reduce attack surfaces. I’ve automated hardening checks and remediation using Ansible and custom scripts, with Git used to version all security policies and templates. Familiar with continuous vulnerability scanning and patch management processes. Also experienced in hardening Kubernetes and Docker environments as part of DevSecOps workflows.
