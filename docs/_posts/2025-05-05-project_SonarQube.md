@@ -1,8 +1,8 @@
 ---
 layout: post
 title: SonarQube in Kubernetes as a Microservice for Pipelines
-categories: cloud security cicd
-tags: cloud security cicd
+categories: cloud security CI/CD
+tags: cloud security CI/CD
 project: 1
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: IAM Provisioning in GCP with Google Workspace Group-Based Policies
-categories: cloud
-tags: gcp
+categories: GCP
+tags: GCP
 project: 1
 ---
 
