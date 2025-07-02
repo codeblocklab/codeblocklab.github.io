@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Resource provisioning & cleanup workflows
-categories: CI/CD IaC
-tags: CI/CD IaC
+categories: ci/cd iac
+tags: ci/cd iac
 ---
 
 AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.

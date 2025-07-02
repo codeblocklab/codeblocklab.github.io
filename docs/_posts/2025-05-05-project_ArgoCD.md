@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitOps with ArgoCD for Kubernetes Environments (EKS + GKE)
-categories: CI/CD cloud AWS GCP azure
+categories: ci/cd cloud aws gcp azure
 tags: CI/CD cloud AWS GCP azure
 project: 1
 ---

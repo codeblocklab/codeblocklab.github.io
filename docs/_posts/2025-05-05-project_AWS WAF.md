@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Secure Application Deployment on AWS with WAF, ALB, ECS Fargate, and Secrets Manager
-categories: AWS
-tags: AWS
+categories: aws
+tags: aws
 project: 1
 ---
 

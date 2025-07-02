@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cloud cost optimization
-categories: cloud AWS GCP azure
-tags: cloud AWS GCP azure
+categories: cloud aws gcp azure
+tags: cloud aws gcp azure
 ---
 
 AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.

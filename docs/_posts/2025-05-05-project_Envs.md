@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Isolated Staging and Production Environments on AWS with Terraform and Terragrunt
-categories: AWS security terraform
-tags: AWS security terraform
+categories: aws security terraform
+tags: aws security terraform
 project: 1
 ---
 

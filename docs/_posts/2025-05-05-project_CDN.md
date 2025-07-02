@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Static Website Hosting on AWS with S3, CloudFront, HTTPS, and ACM Certificates
-categories: AWS
-tags: AWS
+categories: aws
+tags: aws
 project: 1
 ---
 

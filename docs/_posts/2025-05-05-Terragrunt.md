@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terragrunt
-categories: IaC
+categories: iac
 tags: IaC
 ---
 

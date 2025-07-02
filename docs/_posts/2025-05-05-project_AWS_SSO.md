@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS IAM Identity Center (SSO)
-categories: AWS IAM SSO security
+categories: aws iam sso security
 tags: AWS IAM SSO security
 project: 1
 ---
@@ -9,5 +9,4 @@ project: 1
 AWS IAM Identity Center implementation
 
 <!--more-->
-
 Okta, etc

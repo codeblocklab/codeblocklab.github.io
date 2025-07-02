@@ -1,8 +1,8 @@
 ---
 layout: post
 title: GCP Container Pipeline with GKE, Cloud Build, and Artifact Registry
-categories: GCP
-tags: GCP
+categories: gcp
+tags: gcp
 project: 1
 ---
 
