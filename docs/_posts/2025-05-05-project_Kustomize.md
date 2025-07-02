@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kustomize as an Alternative Deployment Tool: Environment-Specific Overlays
-categories: Cloud 
-tags: AWS GCP Azure Cloud
+categories: cloud
+tags: aws gcp
 project: 1
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Terraform
-categories: IaC
-tags: IaC
+categories: iac
+tags: iac
 ---
 
 AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.

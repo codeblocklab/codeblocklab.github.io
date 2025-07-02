@@ -2,7 +2,7 @@
 layout: post
 title: AWS IAM Identity Center (SSO)
 categories: aws iam sso security
-tags: AWS IAM SSO security
+tags: aws iam sso security
 project: 1
 ---
 

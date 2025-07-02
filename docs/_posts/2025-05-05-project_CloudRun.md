@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Automated Infrastructure Deployment for Cloud Run with Cloud Armor and Secrets Manager
-categories: GCP
-tags: GCP
+categories: gcp
+tags: gcp
 project: 1
 ---
 

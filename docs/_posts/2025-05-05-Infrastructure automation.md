@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Infrastructure automation
-categories: AWS cloud
-tags: AWS cloud
+categories: aws cloud
+tags: aws cloud
 ---
 
 AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.

@@ -2,7 +2,7 @@
 layout: post
 title: Terragrunt
 categories: iac
-tags: IaC
+tags: iac
 ---
 
 AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.

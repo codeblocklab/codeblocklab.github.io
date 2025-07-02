@@ -2,7 +2,7 @@
 layout: post
 title: Self-Hosted Git (Forgejo/Gitea) Integrated with Argo Events
 categories: ci/cd cloud aws gcp azure
-tags: CI/CD cloud AWS GCP azure
+tags: ci/cd cloud aws gcp azure
 project: 1
 ---
 

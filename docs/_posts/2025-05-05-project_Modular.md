@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Modular AWS Provisioning with Terraform: RDS, S3, Lambda, and API Gateway
-categories: Cloud
-tags: AWS
+categories: cloud
+tags: aws
 project: 1
 ---
 
