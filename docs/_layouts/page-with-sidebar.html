@@ -60,7 +60,7 @@ layout: page
     {% for category in site.categories %}
       <li>
         <a href="#{{ category[0] | slugify }}">
-          {{ category[0] | capitalize }} ({{ category[1].size }})
+          {{ category[0] }} ({{ category[1].size }})
         </a>
       </li>
     {% endfor %}
