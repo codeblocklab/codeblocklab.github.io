@@ -3,94 +3,117 @@ layout: page
 ---
 
 <style>
-  .page-container {
-    display: flex;
-    max-width: 1200px;
-    margin: 0 auto;
-    gap: 40px;
-  }
-  
-  .main-content {
-    flex: 1;
-    min-width: 0;
-  }
-  
-  .sidebar {
-    width: 300px;
-    flex-shrink: 0;
+  .categories-nav {
     background: #f8f9fa;
     padding: 20px;
     border-radius: 8px;
-    height: fit-content;
-    position: sticky;
-    top: 20px;
-    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #dee2e6;
   }
   
-  .sidebar h3 {
+  .categories-nav h3 {
     margin-top: 0;
     color: #333;
     border-bottom: 2px solid #007bff;
     padding-bottom: 8px;
+    margin-bottom: 15px;
   }
   
-  .sidebar ul {
+  .categories-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
     list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  .sidebar li {
-    margin-bottom: 8px;
+  .categories-list li {
+    margin: 0;
   }
   
-  .sidebar a {
+  .categories-list a {
     color: #555;
     text-decoration: none;
-    display: block;
-    padding: 6px 0;
-    border-radius: 4px;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 20px;
+    background: white;
+    border: 1px solid #dee2e6;
     transition: all 0.2s;
+    font-size: 14px;
   }
   
-  .sidebar a:hover {
-    background: #e9ecef;
+  .categories-list a:hover {
+    background: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+  
+  .tag-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 4px solid #007bff;
+  }
+  
+  .tag-section h3 {
     color: #007bff;
-    padding-left: 8px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
+  .tag-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .tag-section li {
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .tag-section a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .tag-section a:hover {
+    color: #007bff;
   }
   
   @media (max-width: 768px) {
-    .page-container {
+    .categories-list {
       flex-direction: column;
-      gap: 20px;
     }
     
-    .sidebar {
-      width: 100%;
-      position: static;
+    .categories-list a {
+      text-align: center;
     }
   }
 </style>
 
-<div class="page-container">
-  <div class="main-content">
-    {%- if page.title -%}
-      <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
-    
-    {{ content }}
-  </div>
-  
-  <div class="sidebar">
-    <h3>Kategorie</h3>
-    <ul>
-      {% for category in site.categories %}
-        <li>
-          <a href="#{{ category[0] | slugify }}">
-            {{ category[0] | capitalize }} ({{ category[1].size }})
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-</div> 
+<div class="categories-nav">
+  <h3>Categories</h3>
+  <ul class="categories-list">
+    {% for category in site.categories %}
+      <li>
+        <a href="#{{ category[0] | slugify }}">
+          {{ category[0] | capitalize }} ({{ category[1].size }})
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+
+{{ content }} 
