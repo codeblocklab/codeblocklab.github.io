@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Argo Workflows
-categories: aws cloud
-tags: aws cloud
+categories: ci/cd cloud aws gcp azure
+tags: ci/cd cloud aws gcp azure
 ---
 
 A Kubernetes-native workflow engine designed for orchestrating complex, container-based pipelines using declarative YAML specifications. Ideal for automating CI/CD processes, data pipelines, and machine learning workflows within scalable, cloud-native environments.

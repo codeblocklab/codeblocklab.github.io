@@ -1,21 +1,22 @@
 ---
-
 layout: post
-title: AWS
+title: Kubernetes
 categories: administration
 tags: administration
 ---
 
-AWS expert with deep, hands-on experience across the entire AWS ecosystem designing scalable, secure, and cost-optimized environments aligned with best practices.
+Orchestrates containerized workloads and services across clusters with declarative automation, scaling, and self-healing capabilities—forming the backbone of modern cloud-native infrastructure.
 
 <!--more-->
 
-With deep expertise across the full breadth of AWS services, I design, deploy, and manage cloud architectures tailored for scalability, reliability, and security. My work spans infrastructure provisioning with Terraform and CloudFormation, automated CI/CD pipelines, and system monitoring and optimization through CloudWatch. I apply best practices in IAM to ensure secure, role-based access, and actively manage infrastructure as code using Git to support development and change control. From core compute and storage services to networking, security, and serverless architectures, I bring a comprehensive and practical understanding of the AWS cloud environment.
+Kubernetes manages the lifecycle of applications and infrastructure using a control plane and extensible APIs. It supports scheduling, service discovery, rolling deployments, auto-scaling, and resource optimization across distributed environments.
 
-Over the years, I’ve led and contributed to numerous projects that required advanced integration of AWS services—ranging from high-availability web applications and container orchestration with ECS and EKS, to cost-optimized, event-driven systems leveraging services like SQS, SNS, and Step Functions. I focus on building modular, reusable, and compliant infrastructure components that align with both technical and business requirements.
+This skillset includes designing and managing workloads using Pods, Deployments, StatefulSets, DaemonSets, and Jobs; building configuration with ConfigMaps and Secrets; and defining robust service architectures using Ingress, Services, and NetworkPolicies.
 
-I consistently apply the principles of the AWS Well-Architected Framework to ensure that solutions are built with operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability in mind. My approach combines automation, observability, and governance to support both rapid delivery and long-term maintainability.
+Covers cluster provisioning and operations via tools like kubeadm, kops, eksctl, or Terraform, as well as securing clusters with RBAC, PodSecurity standards, and certificate management. Also includes monitoring and logging integrations using Prometheus, Grafana, Fluent Bit, and OpenTelemetry.
 
-Beyond implementation, I advise on cloud strategy, architecture reviews, and FinOps practices, helping organizations align their AWS usage with budget goals and compliance mandates. My experience includes managing multi-account environments with AWS Organizations, setting up secure network boundaries using VPCs and Transit Gateways, and integrating cloud services into hybrid infrastructure landscapes.
+Kubernetes is extended through custom resources (CRDs), controllers, operators, and admission webhooks to automate complex infrastructure behaviors and integrate with external systems. Helm is commonly used for packaging and managing application deployments.
 
-Whether leading initiatives or supporting cross-functional teams, I take pride in delivering cloud solutions that are robust, auditable, and future-ready.
+Integrated with CI/CD pipelines, Kubernetes supports GitOps workflows, progressive delivery strategies (e.g., canary, blue-green), and hybrid or multi-cloud application portability.
+
+By abstracting infrastructure complexity and enabling declarative operations, Kubernetes improves scalability, reliability, and velocity of application delivery in dynamic, cloud-native environments.

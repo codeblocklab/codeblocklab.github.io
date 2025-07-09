@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Bash Scripting
-categories: aws cloud
-tags: aws cloud
+categories: ci/cd
+tags: ci/cd
 ---
 
 Provides a powerful and lightweight mechanism for automating system operations, configuring environments, and orchestrating command-line workflows across Unix-based systems.
 
 <!--more-->
+
 Bash scripting supports rapid development of tooling for deployment, provisioning, log parsing, service monitoring, and environment bootstrapping. It integrates directly with system utilities, package managers, cloud CLIs, and API clients to automate day-to-day operations and complex backend processes.
 
 This skillset includes writing modular, parameterized scripts with robust error handling, conditional logic, and input validation. Supports automation of repeatable DevOps tasks such as CI/CD pipeline hooks, cron-based jobs, cloud resource cleanup, and configuration validation.
