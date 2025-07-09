@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Atlantis as Automation for Terraform in Git Repositories
-categories: iac cloud aws gcp azure
-tags: iac cloud aws gcp azure
+categories: cloud cicd terraform security
+tags: cloud cicd terraform security
 project: 1
 ---
 
