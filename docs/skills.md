@@ -10,7 +10,7 @@ permalink: /skills
 - [Google Cloud Platform (GCP)](/gcp/cloud/2025/05/05/GCP.html)
 - [Azure](/azure/cloud/2025/05/05/Azure.html)
 - [Proxmox](/administration/2025/05/05/Proxmox.html)
-- [OpenStack](/aws/cloud/2025/05/05/OpenStack.html)
+- [OpenStack](/cloud/2025/05/05/OpenStack.html)
 
 ## Infrastructure as Code & Orchestration
 - [Terraform](/aws/cloud/2025/05/05/Terraform.html)
