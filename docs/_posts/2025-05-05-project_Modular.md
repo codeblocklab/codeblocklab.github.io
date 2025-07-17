@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Modular AWS Provisioning with Terraform: RDS, S3, Lambda, and API Gateway
-categories: Cloud
-tags: AWS
+categories: aws cloud terraform iac
+tags: aws cloud terraform iac
 project: 1
 ---
 
