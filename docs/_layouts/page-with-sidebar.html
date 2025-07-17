@@ -57,7 +57,8 @@ layout: page
 <div class="categories-nav">
   <h3></h3>
   <ul class="categories-list">
-    {% for category in site.categories %}
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
       <li>
         <a href="#{{ category[0] | slugify }}">
           {{ category[0] }} ({{ category[1].size }})
