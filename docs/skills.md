@@ -13,16 +13,16 @@ permalink: /skills
 - [OpenStack](/cloud/2025/05/05/OpenStack.html)
 
 ## Infrastructure as Code & Orchestration
-- [Terraform](/aws/cloud/2025/05/05/Terraform.html)
-- [Terragrunt](/aws/cloud/2025/05/05/Terragrunt.html)
-- [Ansible](/aws/cloud/2025/05/05/Ansible.html)
-- [SaltStack](/aws/cloud/2025/05/05/SaltStack.html)
-- [Puppet](/aws/cloud/2025/05/05/Puppet.html)
-- [Docker](/aws/cloud/2025/05/05/Docker.html)
-- [containerd](/aws/cloud/2025/05/05/Containerd.html)
-- [Kubernetes (GKE, OpenShift)](/aws/cloud/2025/05/05/Kubernetes.html)
-- [Kustomize](/aws/cloud/2025/05/05/Kustomize.html)
-- [ArgoCD](/aws/cloud/2025/05/05/ArgoCD.html)
+- [Terraform](/iac/2025/05/05/Terraform.html)
+- [Terragrunt](/iac/2025/05/05/Terragrunt.html)
+- [Ansible](/iac/2025/05/05/Ansible.html)
+- [SaltStack](/iac/2025/05/05/SaltStack.html)
+- [Puppet](/iac/2025/05/05/Puppet.html)
+- [Docker](/administration/2025/05/05/Docker.html)
+- [containerd](/administration/2025/05/05/Containerd.html)
+- [Kubernetes](/administration/2025/05/05/Kubernetes.html)
+- [Kustomize](/administration/2025/05/05/Kustomize.html)
+- [ArgoCD](/ci/cd/cloud/aws/gcp/azure/2025/05/05/ArgoCD.html)
 
 ## CI/CD & GitOps
 - [GitHub Actions](/aws/cloud/2025/05/05/GitHubActions.html)
