@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-Cloud Environment Provisioning with Terraform: GCP & AWS
+title: Multi-Cloud Environment Provisioning with Terraform (GCP & AWS)
 categories: aws gcp terraform iac
 tags: aws gcp terraform iac
 project: 1
@@ -16,11 +16,11 @@ We offer infrastructure provisioning across both AWS and GCP using Infrastructur
 
 ### Cloud Resource Provisioning (GCP + AWS)
 
-- **Kubernetes Clusters**  
+- Kubernetes Clusters  
   - GKE (GCP) and EKS (AWS) provisioning with autoscaling, node pools, and workload identity support.  
-- **Managed Databases**  
+- Managed Databases
   - CloudSQL (GCP) and RDS (AWS) with high availability, private networking, and IAM integration.  
-- **Networking Components**  
+- Networking Components 
   - VPCs with private/public subnets, firewall rules/security groups, custom routes.  
   - VPC peering across regions and between cloud providers (where supported).  
   - NAT Gateways (AWS) and Cloud NAT (GCP) for secure outbound internet traffic.
@@ -58,9 +58,9 @@ We offer infrastructure provisioning across both AWS and GCP using Infrastructur
 
 ## Technologies Used
 
-- **Cloud Providers**: AWS (EKS, RDS, VPC, NAT Gateway, IAM), GCP (GKE, CloudSQL, VPC, Cloud NAT, IAM)  
-- **IaC Tools**: Terraform, Terragrunt  
-- **Automation**: Atlantis, GitHub Actions, GitLab CI/CD  
-- **Secrets Management**: AWS Secrets Manager, GCP Secret Manager, Vault  
-- **Monitoring/Logging**: Prometheus, Grafana, CloudWatch, GCP Monitoring, CloudTrail, Audit Logs  
-- **GitOps Platforms**: GitHub, GitLab, Forgejo
+- Cloud Providers: AWS (EKS, RDS, VPC, NAT Gateway, IAM), GCP (GKE, CloudSQL, VPC, Cloud NAT, IAM)  
+- IaC Tools: Terraform, Terragrunt  
+- Automation: Atlantis, GitHub Actions, GitLab CI/CD  
+- Secrets Management: AWS Secrets Manager, GCP Secret Manager, Vault  
+- Monitoring/Logging: Prometheus, Grafana, CloudWatch, GCP Monitoring, CloudTrail, Audit Logs  
+- GitOps Platforms: GitHub, GitLab, Forgejo
